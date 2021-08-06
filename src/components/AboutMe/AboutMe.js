@@ -11,7 +11,7 @@ export default function AboutMe() {
         <div className="aboutMe" id="aboutme">
             <div className="leftBox">
                 <div className="imgContainer">
-                    <img className="Kav" src={Kav}></img>
+                    <img className="Kav" src={Kav} alt="Kavin"></img>
                 </div>
                 <div className="socialsContainer">
                     <FontAwesomeIcon className="socialBtn" icon={faGithub} size="3x" color="#ee8080"/>
