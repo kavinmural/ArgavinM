@@ -1,0 +1,33 @@
+.navBar {
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: #112240;
+    z-index: 999;
+    transition: all 1s ease;
+}
+
+.navBar.active {
+    background-color: #0a192f;
+}
+
+.wrapper {
+    padding: 10px 30px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    color: azure;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+}
+
+.menu {
+    color: azure;
+    font-weight: bolder;
+    cursor: pointer;
+}

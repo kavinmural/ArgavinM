@@ -1,0 +1,49 @@
+.navDisplay {
+    height: 100vh;
+    width: 250px;
+    position: fixed;
+    background-color: #0a192f;
+    top: 0;
+    right: -250px;
+    z-index: 98;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all 1s ease;
+}
+
+.navDisplay.active {
+    right: 0;
+    background-color: #0a192f;
+}
+
+.pink {
+    color: #ee8080;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 60%;
+}
+
+ul li {
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+ul li a {
+    color: azure;
+    font-size: 25px;
+    font-weight: 200;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+}
+
+ul li a:hover {
+    color: #ee8080;
+}

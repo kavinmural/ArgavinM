@@ -1,0 +1,9 @@
+.sections {
+    height: calc(100vh - 70px);
+    width: 100%;
+    top: 70px;
+    position: relative;
+    overflow-x: hidden;
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,29 @@
+.contact {
+    width: 100%;
+    background-color: #112240;
+    height: 100%;
+    position: relative;
+    scroll-snap-align: start;
+}
+
+.title {
+    text-align: center;
+    font-size: 3em;
+    padding-top: 15%;
+    padding-bottom: 20px;
+}
+
+.subText {
+    text-align: center;
+    font-weight: 100;
+    line-height: 1.5;
+    margin-bottom: 50px;
+    opacity: 0.9;
+}
+
+.contactBtnContainer {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    position: absolute;
+}
