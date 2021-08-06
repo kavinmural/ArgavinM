@@ -15,7 +15,7 @@ export default function Contact() {
                 My Inbox is always open, and I'll try to get back to you ASAP!
             </div>
             <div className="contactBtnContainer">
-                <Button text="Contact"></Button>
+                <Button text="Contact" link="www.google.ca"></Button>
             </div>
             <Footer></Footer>
         </div>

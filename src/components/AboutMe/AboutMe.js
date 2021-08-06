@@ -34,7 +34,7 @@ export default function AboutMe() {
                        relationships along the way!</div>
                 </div>
                 <div className="buttonContainer">
-                    <Button text="Resume"></Button>
+                    <Button text="Resume" link="www.google.ca"></Button>
                 </div>
             </div>
             
