@@ -2,7 +2,8 @@
     width: 100%;
     background-color: #112240;
     opacity: 0.98;
-    height: 100%;
+    height: auto;
+    min-height: 100%;
     position: relative;
     scroll-snap-align: start;
 }
@@ -10,8 +11,8 @@
 .imageContainer {
     height: 100%;
     width: 100%;
-    padding-top: 10%;
     text-align: center;
+    padding-top: 15%;
 }
 
 .TTC {
@@ -19,7 +20,7 @@
     height: 200px;
     background-color: azure;
     border-radius: 10%;
-    margin-right: 10px;
+    margin-right: 20px;
     transition: all 0.2s ease-in-out;
 }
 
@@ -33,7 +34,7 @@
     padding: 50px;
     background: azure;
     border-radius: 10%;
-    margin-right: 10px;
+    margin-right: 20px;
     transition: all 0.2s ease-in-out;
 }
 

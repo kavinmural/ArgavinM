@@ -1,7 +1,7 @@
-import './config/global.css';
 import NavBar from './components/NavBar/NavBar';
 import Sections from './components/Sections/Sections';
 import NavDisplay from './components/NavDisplay/NavDisplay';
+import './config/global.css';
 import {useState} from 'react';
 
 export default function App() {

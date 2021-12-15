@@ -1,0 +1,30 @@
+.projectCard {
+    display: inline-block;
+    background-color: #ee8080;
+    border: 2px azure solid;
+    height: auto;
+    min-height: 540px;
+    border-radius: 5%;
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 370px;
+}
+
+.projTitle {
+    font-size: 130%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.projDesc {
+    margin-bottom: 80px;
+    line-height: 150%;
+}
+
+.projLink {
+    
+}
