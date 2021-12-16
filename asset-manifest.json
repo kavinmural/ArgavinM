@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ArgavinM/static/css/main.80890ee9.chunk.css",
-    "main.js": "/ArgavinM/static/js/main.675aa671.chunk.js",
-    "main.js.map": "/ArgavinM/static/js/main.675aa671.chunk.js.map",
+    "main.css": "/ArgavinM/static/css/main.af7206ff.chunk.css",
+    "main.js": "/ArgavinM/static/js/main.0c74cdfb.chunk.js",
+    "main.js.map": "/ArgavinM/static/js/main.0c74cdfb.chunk.js.map",
     "runtime-main.js": "/ArgavinM/static/js/runtime-main.c999904e.js",
     "runtime-main.js.map": "/ArgavinM/static/js/runtime-main.c999904e.js.map",
     "static/js/2.89ad619f.chunk.js": "/ArgavinM/static/js/2.89ad619f.chunk.js",
     "static/js/2.89ad619f.chunk.js.map": "/ArgavinM/static/js/2.89ad619f.chunk.js.map",
     "index.html": "/ArgavinM/index.html",
-    "static/css/main.80890ee9.chunk.css.map": "/ArgavinM/static/css/main.80890ee9.chunk.css.map",
+    "static/css/main.af7206ff.chunk.css.map": "/ArgavinM/static/css/main.af7206ff.chunk.css.map",
     "static/js/2.89ad619f.chunk.js.LICENSE.txt": "/ArgavinM/static/js/2.89ad619f.chunk.js.LICENSE.txt",
     "static/media/CognisantMD.fec62ed8.png": "/ArgavinM/static/media/CognisantMD.fec62ed8.png",
     "static/media/Kav.e201a7f3.jpeg": "/ArgavinM/static/media/Kav.e201a7f3.jpeg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c999904e.js",
     "static/js/2.89ad619f.chunk.js",
-    "static/css/main.80890ee9.chunk.css",
-    "static/js/main.675aa671.chunk.js"
+    "static/css/main.af7206ff.chunk.css",
+    "static/js/main.0c74cdfb.chunk.js"
   ]
 }
