@@ -7,7 +7,7 @@ export default function ProjectCard({title, description, gitLink}) {
         <div className="projectCard">
             <h4 className="projTitle">{title}</h4>
             <p className="projDesc">{description}</p>
-            <a href={gitLink} target="_blank"><FontAwesomeIcon className="socialBtn projLink" icon={faGithub} size="3x" color="azure"/></a>
+            <a href={gitLink} target="_blank" rel="noreferrer"><FontAwesomeIcon className="socialBtn projLink" icon={faGithub} size="3x" color="azure"/></a>
         </div>
     )
 }
