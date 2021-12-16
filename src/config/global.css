@@ -71,6 +71,14 @@ html, body {
     .CognisantMD {
         width: 350px;
     }
+
+    .aboutMe, .contact, .experience, .landing, .projects {
+        scroll-snap-align: unset;
+    }
+
+    .sections {
+        scroll-snap-type: none;
+    }
 }
 
 /* ------------------------------------------------------------------------------ */
@@ -132,6 +140,11 @@ html, body {
     .experienceTitle {
         font-size: 2.5em;
     }
+
+    .projectCard {
+        min-height: 500px;
+        width: 300px;
+    }
 }
 
 
@@ -157,5 +170,9 @@ html, body {
     .CognisantMD {
         width: 230px;
         height: 150px;
+    }
+
+    .projectCard {
+        width: 270px;
     }
 }
