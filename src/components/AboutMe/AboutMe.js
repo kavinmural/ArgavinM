@@ -14,10 +14,10 @@ export default function AboutMe() {
                     <img className="Kav" src={Kav} alt="Kavin"></img>
                 </div>
                 <div className="socialsContainer">
-                    <FontAwesomeIcon className="socialBtn" icon={faGithub} size="3x" color="#ee8080"/>
-                    <FontAwesomeIcon className="socialBtn" icon={faLinkedin} size="3x" color="#ee8080"/>
-                    <FontAwesomeIcon className="socialBtn" icon={faInstagram} size="3x" color="#ee8080"/>
-                    <FontAwesomeIcon className="socialBtn" icon={faEnvelope} size="3x" color="#ee8080"/>
+                    <a href="https://github.com/kavinmural" target="_blank"><FontAwesomeIcon className="socialBtn" icon={faGithub} size="3x" color="#ee8080"/></a>
+                    <a href="https://www.linkedin.com/in/kavin-muralitharan/" target="_blank"><FontAwesomeIcon className="socialBtn" icon={faLinkedin} size="3x" color="#ee8080"/></a>
+                    <a href="https://www.instagram.com/kavinmural/" target="_blank"><FontAwesomeIcon className="socialBtn" icon={faInstagram} size="3x" color="#ee8080"/></a>
+                    <a href="mailto:kavin.mural42@gmail.com" target="_blank"><FontAwesomeIcon className="socialBtn" icon={faEnvelope} size="3x" color="#ee8080"/></a>
                 </div>
             </div>
             <div className="rightBox">

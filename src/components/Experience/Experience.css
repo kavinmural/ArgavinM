@@ -6,13 +6,13 @@
     min-height: 100%;
     position: relative;
     scroll-snap-align: start;
+    text-align: center;
 }
 
 .imageContainer {
     height: 100%;
     width: 100%;
     text-align: center;
-    padding-top: 15%;
 }
 
 .TTC {
@@ -21,11 +21,6 @@
     background-color: azure;
     border-radius: 10%;
     margin-right: 20px;
-    transition: all 0.2s ease-in-out;
-}
-
-.TTC:hover {
-    opacity: 0.7;
 }
 
 .UKG {
@@ -35,21 +30,20 @@
     background: azure;
     border-radius: 10%;
     margin-right: 20px;
-    transition: all 0.2s ease-in-out;
-}
-
-.UKG:hover {
-    opacity: 0.7;
 }
 
 .CognisantMD {
-    width: 420px;
+    width: 400px;
     height: 200px;
     background: azure;
     border-radius: 10%;
-    transition: all 0.2s ease-in-out;
 }
 
-.CognisantMD:hover {
-    opacity: 0.7;
+.experienceTitle {
+    color: azure;
+    font-size: 4em;        
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding-top: 50px;
+    padding-bottom: 10%;
 }
