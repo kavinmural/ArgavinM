@@ -12,7 +12,8 @@
     margin: 0;
     width: 50%;
     padding: 0;
-    height: calc(100vh - 70px);
+    height: auto;
+    min-height: 100%;
 }
 
 .leftBox {
@@ -57,6 +58,7 @@
 
 .aboutMeContainer {
     margin-top: 10%;
+    text-align: center;
 }
 
 .aboutMeTitle {
@@ -65,7 +67,7 @@
     text-transform: uppercase;
     letter-spacing: 3px;
     margin-bottom: 30px;
-    margin-left: 24%;
+    
 }
 
 .aboutMeText {
@@ -82,8 +84,6 @@
 }
 
 .buttonContainer {
-    width: 50%;
     text-align: center;
-    margin: auto;
     margin-top: 8%;
 }

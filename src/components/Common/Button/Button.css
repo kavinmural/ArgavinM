@@ -1,4 +1,5 @@
 .button {
+    display: inline-block;
     color: #ee8080;
     background: transparent;
     padding: 15px 30px;
