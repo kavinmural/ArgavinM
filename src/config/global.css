@@ -136,6 +136,17 @@ html, body {
     .socialBtn {
         font-size: 280%;
     }
+
+    .navDisplay{
+        width: 100%;
+        right: -100%;
+    }
+
+    ul {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
 }
 
 /* ------------------------------------------------------------------------------ */
