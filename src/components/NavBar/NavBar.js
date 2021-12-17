@@ -1,6 +1,7 @@
 import './NavBar.css';
 import Logo from '../../data/images/logo.png';
 import MenuIcon from '@material-ui/icons/Menu';
+import CloseIcon from '@material-ui/icons/Close';
 
 export default function NavBar({navOpen, setNavOpen}) {
     return (
@@ -12,7 +13,8 @@ export default function NavBar({navOpen, setNavOpen}) {
                     </a>
                 </div>
                 <div className="menuBox">
-                    <MenuIcon className="menu" fontSize="large" onClick={() => setNavOpen(!navOpen)}/>
+                    <MenuIcon className={"menu " + (navOpen && "active")} fontSize="large" onClick={() => setNavOpen(!navOpen)}/>
+                    <CloseIcon className={"close " + (navOpen && "active")} fontSize="large" onClick={() => setNavOpen(!navOpen)}/>
                 </div>
             </div>
         </div>

@@ -30,4 +30,24 @@
     color: azure;
     font-weight: bolder;
     cursor: pointer;
+    visibility: visible;
+    float: right;
+}
+
+.menu.active {
+    visibility: hidden;
+    float: none;
+}
+
+.close {
+    color: azure;
+    font-weight: bolder;
+    cursor: pointer;
+    visibility: hidden;
+    float: none;
+}
+
+.close.active {
+    visibility: visible;
+    float: right;
 }
