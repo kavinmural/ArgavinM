@@ -23,6 +23,7 @@ html, body {
     text-decoration: none;
     position: absolute;
     scroll-behavior: smooth;
+    scroll-padding-top: 70px;
 }
 
 /* ------------------------------------------------------------------------------ */
