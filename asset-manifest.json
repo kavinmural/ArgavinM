@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ArgavinM/static/css/main.3e61a786.chunk.css",
-    "main.js": "/ArgavinM/static/js/main.0c74cdfb.chunk.js",
-    "main.js.map": "/ArgavinM/static/js/main.0c74cdfb.chunk.js.map",
+    "main.css": "/ArgavinM/static/css/main.7f32c354.chunk.css",
+    "main.js": "/ArgavinM/static/js/main.9e6524b8.chunk.js",
+    "main.js.map": "/ArgavinM/static/js/main.9e6524b8.chunk.js.map",
     "runtime-main.js": "/ArgavinM/static/js/runtime-main.c999904e.js",
     "runtime-main.js.map": "/ArgavinM/static/js/runtime-main.c999904e.js.map",
-    "static/js/2.89ad619f.chunk.js": "/ArgavinM/static/js/2.89ad619f.chunk.js",
-    "static/js/2.89ad619f.chunk.js.map": "/ArgavinM/static/js/2.89ad619f.chunk.js.map",
+    "static/js/2.7bbd352a.chunk.js": "/ArgavinM/static/js/2.7bbd352a.chunk.js",
+    "static/js/2.7bbd352a.chunk.js.map": "/ArgavinM/static/js/2.7bbd352a.chunk.js.map",
     "index.html": "/ArgavinM/index.html",
-    "static/css/main.3e61a786.chunk.css.map": "/ArgavinM/static/css/main.3e61a786.chunk.css.map",
-    "static/js/2.89ad619f.chunk.js.LICENSE.txt": "/ArgavinM/static/js/2.89ad619f.chunk.js.LICENSE.txt",
+    "static/css/main.7f32c354.chunk.css.map": "/ArgavinM/static/css/main.7f32c354.chunk.css.map",
+    "static/js/2.7bbd352a.chunk.js.LICENSE.txt": "/ArgavinM/static/js/2.7bbd352a.chunk.js.LICENSE.txt",
     "static/media/CognisantMD.fec62ed8.png": "/ArgavinM/static/media/CognisantMD.fec62ed8.png",
     "static/media/Kav.e201a7f3.jpeg": "/ArgavinM/static/media/Kav.e201a7f3.jpeg",
     "static/media/TTC.fe419c46.png": "/ArgavinM/static/media/TTC.fe419c46.png",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c999904e.js",
-    "static/js/2.89ad619f.chunk.js",
-    "static/css/main.3e61a786.chunk.css",
-    "static/js/main.0c74cdfb.chunk.js"
+    "static/js/2.7bbd352a.chunk.js",
+    "static/css/main.7f32c354.chunk.css",
+    "static/js/main.9e6524b8.chunk.js"
   ]
 }
