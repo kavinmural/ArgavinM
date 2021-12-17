@@ -2,6 +2,6 @@ import './Button.css';
 
 export default function Button({text, link}) {
     return (
-        <a className="button" href={link} target="_blank" rel="noreferrer">{text}</a>
+        <a className="button" href={link} target="_blank" rel="noreferrer noopener">{text}</a>
     )
 }

@@ -1,9 +1,10 @@
 import './AboutMe.css';
-import Kav from '../../data/images/Kav.jpeg';
+import Kav from './../../data/images/Kav.jpeg';
 import Button from '../Common/Button/Button';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faInstagram } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
+import Resume from './../../data/ArgavinMural2021.pdf';
 
 
 export default function AboutMe() {
@@ -11,7 +12,7 @@ export default function AboutMe() {
         <div className="aboutMe" id="aboutme">
             <div className="leftBox">
                 <div className="imgContainer">
-                    <img className="Kav" src={Kav} alt="Kavin"></img>
+                    <img className="Kav" src={Kav} alt="Kavin" rel="preload"></img>
                 </div>
                 <div className="socialsContainer">
                     <a href="https://github.com/kavinmural" target="_blank" rel="noreferrer"><FontAwesomeIcon className="socialBtn" icon={faGithub} size="3x" color="#ee8080"/></a>
@@ -34,7 +35,7 @@ export default function AboutMe() {
                        relationships along the way!</div>
                 </div>
                 <div className="buttonContainer">
-                    <Button text="Resume" link="www.google.ca"></Button>
+                    <Button text="Resume" link={Resume}></Button>
                 </div>
             </div>
             
