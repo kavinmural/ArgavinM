@@ -30,11 +30,13 @@ html, body {
     -moz-backface-visibility: hidden;
 }
 
-.ui-page {
-    backface-visibility: hidden;
-    -webkit-backface-visibility: hidden;
-    -moz-backface-visibility: hidden;
-    -moz-backface-visibility: hidden;
+.ui-mobile, .ui-mobile .ui-page, .ui-mobile [data-role="page"],
+.ui-mobile [data-role="dialog"], .ui-page, .ui-mobile .ui-page-active {
+      overflow: hidden;
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+      -moz-backface-visibility: hidden;
+      -moz-backface-visibility: hidden;
 }
 
 /* ------------------------------------------------------------------------------ */
