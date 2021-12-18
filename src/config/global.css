@@ -27,16 +27,20 @@ html, body {
     backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
     -moz-backface-visibility: hidden;
-    -moz-backface-visibility: hidden;
+    -o-backface-visibility: hidden;
+    transition: none !important;
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
 }
 
 .ui-mobile, .ui-mobile .ui-page, .ui-mobile [data-role="page"],
 .ui-mobile [data-role="dialog"], .ui-page, .ui-mobile .ui-page-active {
-      overflow: hidden;
-      backface-visibility: hidden;
-      -webkit-backface-visibility: hidden;
-      -moz-backface-visibility: hidden;
-      -moz-backface-visibility: hidden;
+    transition: none !important;
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+
 }
 
 /* ------------------------------------------------------------------------------ */
