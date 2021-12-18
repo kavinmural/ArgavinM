@@ -16,26 +16,23 @@
 }
 
 .TTC {
-    width: 400px;
+    width: auto;
     height: 200px;
-    background-color: azure;
     border-radius: 10%;
     margin-right: 20px;
 }
 
 .UKG {
-    width: 350px;
+    width: auto;
     height: 200px;
     padding: 50px;
-    background: azure;
     border-radius: 10%;
     margin-right: 20px;
 }
 
 .CognisantMD {
-    width: 400px;
+    width: auto;
     height: 200px;
-    background: azure;
     border-radius: 10%;
 }
 
