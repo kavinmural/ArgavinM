@@ -24,6 +24,10 @@ html, body {
     position: absolute;
     scroll-behavior: smooth;
     scroll-padding-top: 70px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
 }
 
 /* ------------------------------------------------------------------------------ */
