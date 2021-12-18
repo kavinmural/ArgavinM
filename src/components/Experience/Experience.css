@@ -13,6 +13,7 @@
     height: 100%;
     width: 100%;
     text-align: center;
+    transition: none;
 }
 
 .TTC {
@@ -20,6 +21,7 @@
     height: 200px;
     border-radius: 10%;
     margin-right: 20px;
+    transition: none;
 }
 
 .UKG {
@@ -28,12 +30,14 @@
     padding: 50px;
     border-radius: 10%;
     margin-right: 20px;
+    transition: none;
 }
 
 .CognisantMD {
     width: auto;
     height: 200px;
     border-radius: 10%;
+    transition: none;
 }
 
 .experienceTitle {
