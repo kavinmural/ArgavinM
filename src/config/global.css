@@ -30,6 +30,13 @@ html, body {
     -moz-backface-visibility: hidden;
 }
 
+.ui-page {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+}
+
 /* ------------------------------------------------------------------------------ */
 /* ----- Big Tablets & Laptops (990px-1200px) ----- */
 /* ------------------------------------------------------------------------------ */
