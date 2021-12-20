@@ -4,7 +4,7 @@ import Button from '../Common/Button/Button';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faInstagram } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
-import Resume from './../../data/ArgavinMural2021.pdf';
+import Resume from './../../data/ArgavinM2022.pdf';
 
 
 export default function AboutMe() {
