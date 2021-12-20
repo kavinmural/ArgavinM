@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ArgavinM/static/css/main.d44caed7.chunk.css",
-    "main.js": "/ArgavinM/static/js/main.559a6078.chunk.js",
-    "main.js.map": "/ArgavinM/static/js/main.559a6078.chunk.js.map",
+    "main.js": "/ArgavinM/static/js/main.f42a2144.chunk.js",
+    "main.js.map": "/ArgavinM/static/js/main.f42a2144.chunk.js.map",
     "runtime-main.js": "/ArgavinM/static/js/runtime-main.c999904e.js",
     "runtime-main.js.map": "/ArgavinM/static/js/runtime-main.c999904e.js.map",
     "static/js/2.7bbd352a.chunk.js": "/ArgavinM/static/js/2.7bbd352a.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/ArgavinM/index.html",
     "static/css/main.d44caed7.chunk.css.map": "/ArgavinM/static/css/main.d44caed7.chunk.css.map",
     "static/js/2.7bbd352a.chunk.js.LICENSE.txt": "/ArgavinM/static/js/2.7bbd352a.chunk.js.LICENSE.txt",
-    "static/media/ArgavinMural2021.593babb5.pdf": "/ArgavinM/static/media/ArgavinMural2021.593babb5.pdf",
+    "static/media/ArgavinM2022.9deed8f1.pdf": "/ArgavinM/static/media/ArgavinM2022.9deed8f1.pdf",
     "static/media/CognisantMD.fec62ed8.png": "/ArgavinM/static/media/CognisantMD.fec62ed8.png",
     "static/media/Kav.e201a7f3.jpeg": "/ArgavinM/static/media/Kav.e201a7f3.jpeg",
     "static/media/TTC.fe419c46.png": "/ArgavinM/static/media/TTC.fe419c46.png",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.c999904e.js",
     "static/js/2.7bbd352a.chunk.js",
     "static/css/main.d44caed7.chunk.css",
-    "static/js/main.559a6078.chunk.js"
+    "static/js/main.f42a2144.chunk.js"
   ]
 }
