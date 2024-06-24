@@ -27,12 +27,12 @@ export default function AboutMe() {
                     <div className="aboutMeText"><span className="helloText">Hello!</span> Welcome to my personal website! My name is Argavin Muralitharan, 
                        a dedicated professional with over 3 years of experience in software development. 
                        I graduated with a degree in Computer Science from the University of Waterloo in July 2022 and have since been honing my skills at UKG,
-                       where I've spent 2 years contributing to various projects and gaining valuable industry insights. </br>
+                       where I've spent 2 years contributing to various projects and gaining valuable industry insights. <br></br>
                        My journey in computer science has equipped me with a strong foundation in mathematics, program logic, and design principles. 
                        I thrive on continuous learning and am passionate about exploring new technologies and methodologies in software development. 
-                       Throughout my career, I've demonstrated a proactive approach to problem-solving and a drive to deliver high-quality solutions. </br>
+                       Throughout my career, I've demonstrated a proactive approach to problem-solving and a drive to deliver high-quality solutions. <br></br>
                        As a competitive individual, I not only challenge myself to excel but also inspire others to reach their full potential. 
-                       I believe in leaving a lasting impression with every organization I collaborate with and strive to build meaningful relationships along the way. </br>
+                       I believe in leaving a lasting impression with every organization I collaborate with and strive to build meaningful relationships along the way. <br></br>
                        I look forward to connecting with you and exploring opportunities where I can contribute my skills and enthusiasm to achieve mutual success.
                     </div>
                 </div>
